@@ -86,7 +86,7 @@ ws.Activate
 
     'Format positive and negative yearly changes
     Dim YearRange As Range
-    Set YearRange = Range("J:J")
+    Set YearRange = Range("J:K")
     
     For Each Cell In YearRange
         If Cell.Value < 0 Then
