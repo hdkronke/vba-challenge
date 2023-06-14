@@ -1,5 +1,5 @@
-## VBA Challenge
-# Module 2
+# VBA Challenge
+## Module 2
 For this project, I used stock market data to create an analysis program with Visual Basic (VBA) through Excel.
 
 The program compares stock prices over the course of a specific year and reports the net gains and losses.
