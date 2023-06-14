@@ -1,7 +1,11 @@
-# vba-challenge
-Module 2 Challenge
-Here are the files for the Module 2 Challenge covering VBA in Excel!
+## VBA Challenge
+# Module 2
+For this project, I used stock market data to create an analysis program with Visual Basic (VBA) through Excel.
 
-In this folder you will find a screenshot of the results of my code in Excel and a copy of the VB Script (Sub WallStreet) in both .vb and .vbs formats.
+The program compares stock prices over the course of a specific year and reports the net gains and losses.
 
-I wanted to include the actual Excel file, but GitHub said the file was too big.
+![Module 2 Challenge Screen 2020](https://github.com/hdkronke/vba-challenge/assets/117773492/59a8e816-83c1-4101-a238-d12cfe0cbde4)
+
+The most interesting feature I added was the 'scoreboard' for the most dynamic changes in the dataset.
+
+![Module 2 Challenge Screen 2020 - Copy](https://github.com/hdkronke/vba-challenge/assets/117773492/acc5a068-a8e8-4c3e-b8c1-7dacc485515e)
